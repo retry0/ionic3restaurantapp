@@ -4,6 +4,9 @@ Thanks you for downloading Ionic 3 Restaurant distribution.
 This project includes a full working PhoneGap/Ionic project
 source code. It's ready to integrate (almost) any API all the Services logic are written there.
 
+|Please donate whether you wish support us to give more time to plugin's growth | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 Overview
 ========
 

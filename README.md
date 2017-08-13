@@ -1,5 +1,5 @@
 
-Welcome to the Ionic 3 Restaurant distribution!
+# Ionic 3 Restaurant App
 
 <img src="https://img.shields.io/github/stars/amanganiello90/ionic3restaurantapp.svg">&nbsp;<a href="https://github.com/amanganiello90/ionic3restaurantapp/issues"><img src="https://img.shields.io/github/issues/amanganiello90/ionic3restaurantapp.svg">
 

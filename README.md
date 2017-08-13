@@ -1,6 +1,8 @@
 
 Welcome to the Ionic 3 Restaurant distribution!
 
+<img src="https://img.shields.io/github/stars/amanganiello90/ionic3restaurantapp.svg">&nbsp;<a href="https://github.com/amanganiello90/ionic3restaurantapp/issues"><img src="https://img.shields.io/github/issues/amanganiello90/ionic3restaurantapp.svg">
+
 You can buy the ionic app source on the ionic market clicking on https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded or with the buy button of this page.
 
 To download the free demo ANDROID APP INSTALLER FILE (APK) click on https://github.com/amanganiello90/ionic3restaurantapp/raw/apk/ionic3restaurant.apk

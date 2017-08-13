@@ -3,14 +3,14 @@
 
 <img src="https://img.shields.io/github/stars/amanganiello90/ionic3restaurantapp.svg">&nbsp;<a href="https://github.com/amanganiello90/ionic3restaurantapp/issues"><img src="https://img.shields.io/github/issues/amanganiello90/ionic3restaurantapp.svg">
 
-You can buy the ionic app source on the ionic market clicking on https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded or with the buy button of this page.
+https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded to buy on market or with the buy button of this page.
 
 To download the free demo ANDROID APP INSTALLER FILE (APK) click on https://github.com/amanganiello90/ionic3restaurantapp/raw/apk/ionic3restaurant.apk
 
 This project includes a full working PhoneGap/Ionic project
 source code. It's ready to integrate (almost) any API all the Services logic are written there.
 
-|Please donate whether you wish support us to give more time to plugin's growth | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
+|To buy the product | [![](https://www.paypal.com/en_US/IT/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SYASQ3RRPWL4E) |
 |:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 Overview
@@ -30,8 +30,6 @@ directories:
 
 Brief installation guide
 ------------------------
-
-# E-commerce Restaurant App with Ionic 3
 
 REQUIREMENT
 ========

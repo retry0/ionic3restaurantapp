@@ -41,7 +41,7 @@ REQUIREMENT
 
 STEPS TO USE
 ========
-* clone this repo
+* enter in the project folder
 * npm install
 * Then ```ionic cordova platform add android``` and ```ionic cordova resources```
 * If you want to view in local run ```ionic serve``` or ```ionic serve -l``` (for mobile lab view)

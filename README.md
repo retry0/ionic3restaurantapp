@@ -5,6 +5,8 @@
 
 https://market.ionic.io/starters/ionic-3-restaurant-app-upgraded to buy on market or with the buy button of this page.
 
+**For the web documentation demo click on** : https://amanganiello90.github.io/ionic3restaurantapp/
+
 To download the free demo ANDROID APP INSTALLER FILE (APK) click on https://github.com/amanganiello90/ionic3restaurantapp/raw/apk/ionic3restaurant.apk
 
 This project includes a full working PhoneGap/Ionic project
